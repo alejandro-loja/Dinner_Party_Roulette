@@ -1,5 +1,5 @@
 # Dinner Party Roulette - Project 1
- [link to Project One!](https://alejandro-loja.github.io/project-1/)
+ [Link to Project One!](https://alejandro-loja.github.io/project-1/)
 
  ## Group Project 1
 
