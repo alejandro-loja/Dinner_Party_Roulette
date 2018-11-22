@@ -12,6 +12,6 @@ We decided to make an app that gives you a random meal based on certain paramete
 We used the Spooncular API to generate recepie results. We also used the Giphy API to
 show generate random images based on the search criteria.
 
-The recipe output shows you the title, the list of ingredients, and the insturctions of the recipe.
+The recipe output shows you the title, the list of ingredients, and the instructions of the recipe.
 
 
